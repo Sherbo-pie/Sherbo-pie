@@ -1,16 +1,17 @@
-## Hi there 👋
+# Shirsha Pattanaik
+B.Tech. Computational Mathematics @ Mahindra University (2024–2028)
 
-<!--
-**Sherbo-pie/Sherbo-pie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests: Machine Learning · Mathematical Modelling · NLP
 
-Here are some ideas to get you started:
+## Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Tokenizing-Calculator](link) | NLP tokeniser for text processing | Python |
+| [CareerCompass](link) | Student skill & market tracking tool | JavaScript |
+| [Project-Chronos](link) | Slang-to-text normalisation tool | Python, Gemini API |
+| [math-research-projects](link) | RSA cryptography & music genre classification research | Python, MATLAB |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Stanford CS229 Machine Learning
+- Foundational Mathematics for ML
+- Number Theory & Cryptography-
