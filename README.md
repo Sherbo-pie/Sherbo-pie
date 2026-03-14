@@ -7,7 +7,7 @@ Interests: Machine Learning · Mathematical Modelling · NLP
 | Project | Description | Tech |
 |---|---|---|
 | [Tokenizing-Calculator](link) | NLP tokeniser for text processing | Python |
-| [Career_Compass](link) | Student skill & market tracking tool | JavaScript |
+| [Career_Compass](https://github.com/Sherbo-pie/Career_Compass) | Student skill & market tracking tool | JavaScript |
 | [Project-Chronos](link) | Slang-to-text normalisation tool | Python, Gemini API |
 | [math-research-projects](link) | RSA cryptography & music genre classification research | Python, MATLAB |
 
