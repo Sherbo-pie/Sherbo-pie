@@ -8,7 +8,6 @@ Interested in Machine Learning, Graph Neural Networks, Recommendation Systems, S
 
 | Project | Description | Tech |
 |----------|----------|----------|
-| Goodreads Recommender Systems | Investigating whether graph-based recommendation models outperform Matrix Factorization under sparse-user conditions | PyTorch, LightGCN |
 | PCA Anomaly Detection | Anomaly detection using PCA reconstruction error on semiconductor sensor data | Python, Scikit-learn |
 | UPI Growth Policy Analysis | Statistical analysis of policy interventions and UPI adoption trends in India | RStudio |
 | RSA Group Theory Study | RSA implementation and security analysis using group-theoretic foundations | Python |
