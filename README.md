@@ -20,4 +20,4 @@ Code is not public yet while the paper is under anonymous review.
 | Block Escape | Object-oriented grid puzzle game built around an abstract tile hierarchy | Java |
 | Music Genre Classification | Genre classification using MFCC-based frequency-domain audio features | Python, Librosa |
 | UPI Growth Policy Analysis | Statistical analysis of policy interventions and UPI adoption trends in India | RStudio |
-| RSA Group Theory Study | RSA implementation and security analysis using group-theoretic foundations | Python |
+| Hacktoberfest 2025| Open-source contributions to [Enigma-AIML25](https://github.com/MU-Enigma/Enigma-AIML25)  during Hacktoberfest 2025, made through Mahindra University | Open source |
