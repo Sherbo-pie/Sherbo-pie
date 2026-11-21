@@ -1,8 +1,8 @@
 # Shirsha Pattanaik
 
-B.Tech Computational Mathematics @ Mahindra University (2024–2028) · Secretary, ACM Student Chapter
+B.Tech Computational Mathematics @ Mahindra University (2024–2028) · Secretary, ACM Student Chapter 
 
-Interested in graph learning, recommender systems and information retrieval, and exploring NLP and probabilistic machine learning. Selected for the ACM India Winter School on Information Retrieval and NLP (December 2026).
+Research experience in Graph Neural Networks and Recommender Systems (Information Retrieval), with a keen interest in Deep Learning, NLP and Reinforcement Learning.
 
 ## Research
 
