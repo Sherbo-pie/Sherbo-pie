@@ -1,29 +1,23 @@
 # Shirsha Pattanaik
 
-B.Tech. Computational Mathematics @ Mahindra University (2024–2028)
+B.Tech Computational Mathematics @ Mahindra University (2024–2028) · Secretary, ACM Student Chapter
 
-Interested in Machine Learning, Graph Neural Networks, Recommendation Systems, Statistical Learning, and Applied Mathematics for AI.
+Interested in graph learning, recommender systems and information retrieval, and exploring NLP and probabilistic machine learning. Selected for the ACM India Winter School on Information Retrieval and NLP (December 2026).
+
+## Research
+
+**AFCL-GC: Adaptive Feature-Aware Contrastive Learning for Graph-Based Collaborative Filtering** (submitted to ACM WSDM 2027)
+
+A feature-aware extension of LightGCN for sparse interaction data. An adaptive user–item gate learns how much to trust interaction data versus item features, and a contrastive loss aligns the two views of each item. Improved Recall@10 over LightGCN by 53.3% on MovieLens Latest Small and 32.7% on Amazon Beauty.
+
+Code is not public yet while the paper is under anonymous review.
 
 ## Projects
 
 | Project | Description | Tech |
-|----------|----------|----------|
-| PCA Anomaly Detection | Anomaly detection using PCA reconstruction error on semiconductor sensor data | Python, Scikit-learn |
+|---|---|---|
+| PCA Anomaly Detection (SECOM) | Unsupervised anomaly detection on semiconductor sensor data using PCA reconstruction error; outperformed Isolation Forest and One-Class SVM on F1 and recall | Python, scikit-learn |
+| Block Escape | Object-oriented grid puzzle game built around an abstract tile hierarchy | Java |
+| Music Genre Classification | Genre classification using MFCC-based frequency-domain audio features | Python, Librosa |
 | UPI Growth Policy Analysis | Statistical analysis of policy interventions and UPI adoption trends in India | RStudio |
 | RSA Group Theory Study | RSA implementation and security analysis using group-theoretic foundations | Python |
-| Music Genre Classification | Genre classification using MFCC-based frequency-domain audio features | Python, Librosa |
-
-## Research Interests
-
-- Graph Neural Networks
-- Recommendation Systems
-- Statistical Learning
-- Representation Learning
-- Applied Mathematics for Machine Learning
-
-## Currently Exploring
-
-- LightGCN
-- Spectral Graph Methods
-- Recommendation Systems
-- Statistical Learning
